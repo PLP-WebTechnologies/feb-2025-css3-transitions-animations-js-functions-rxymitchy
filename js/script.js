@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
     // Load saved preferences
     loadPreferences();
-
+ 
     // Save preferences to localStorage
     savePrefsBtn.addEventListener('click', function() {
         const preferences = {
