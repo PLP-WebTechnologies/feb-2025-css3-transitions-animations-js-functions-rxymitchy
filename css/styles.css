@@ -89,7 +89,7 @@ button:hover {
         transform: translateY(-20px);
     }
 }
-
+    
 .bounce-animation {
     animation: bounce 1s infinite;
 }

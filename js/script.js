@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const animatedBox = document.querySelector('.animated-box');
     const animatedImage = document.querySelector('.animated-image img');
     const body = document.body;
-
+  
     // Load saved preferences
     loadPreferences();
 
